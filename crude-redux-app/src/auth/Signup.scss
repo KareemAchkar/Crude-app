@@ -1,0 +1,34 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+form {
+  width: 20%;
+  margin: 0 auto;
+  padding: 1rem;
+  background-color: #818c98;
+  border: 1px solid #ced1d3;
+  border-radius: 0.25rem;
+}
+
+.arrow{
+  width: 10px;
+  height: 10px;
+  margin-top: -5px;
+}
+
+.back-signin {
+  margin-top: 10px;
+  font-size: 0.9rem;
+}
+
+.prev-navigation{
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+

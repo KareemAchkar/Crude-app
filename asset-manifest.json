@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Crude-app/static/css/main.d0f2af4b.css",
+    "main.js": "/Crude-app/static/js/main.7699f4df.js",
+    "static/js/787.79463537.chunk.js": "/Crude-app/static/js/787.79463537.chunk.js",
+    "static/media/png-transparent-arrow-free-content-quiver-arrow-line-s-angle-text-bow-and-arrow.png": "/Crude-app/static/media/png-transparent-arrow-free-content-quiver-arrow-line-s-angle-text-bow-and-arrow.e94f16ec22b2b8069b0c.png",
+    "index.html": "/Crude-app/index.html",
+    "main.d0f2af4b.css.map": "/Crude-app/static/css/main.d0f2af4b.css.map",
+    "main.7699f4df.js.map": "/Crude-app/static/js/main.7699f4df.js.map",
+    "787.79463537.chunk.js.map": "/Crude-app/static/js/787.79463537.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0f2af4b.css",
+    "static/js/main.7699f4df.js"
+  ]
+}
